@@ -1,0 +1,4 @@
+name: daily_legend_app
+dependencies:
+  flutter:
+    sdk: flutter
